@@ -1,16 +1,3 @@
-/*
-美团 v3.17
-
-美团V3仅支持青龙等nodejs环境, 不支持圈X
-自动领券和完成一些活动任务
-建议按推荐定时跑, 每天10点15点17点有券可以抽
-
-自行捉包把meituan.com里面的token(一般在请求头里)填到变量 meituanCookie 中, 多账号换行或&或@隔开
-export meituanCookie="AgGZIgsYHyxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-
-cron: 2 0,10,15,17,21 * * *
-const $ = new Env("美团");
-*/
 const _0xcdce93 = _0x224e;
 (function (_0x360297, _0xc4851) {
   const _0x2a10a8 = _0x224e,
